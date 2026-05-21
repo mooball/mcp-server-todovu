@@ -1,8 +1,12 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "mooball/todo-vu",
+  "name": "io.github.mooball/todo-vu",
   "title": "todo.vu",
   "description": "Model Context Protocol server for todo.vu task management and time tracking.",
+  "repository": {
+    "url": "https://github.com/mooball/mcp-server-todovu",
+    "source": "github"
+  },
   "version": "1.0.0",
   "remotes": [
     {
